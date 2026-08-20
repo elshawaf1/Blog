@@ -1,0 +1,49 @@
+site_name: Artificial Intelligence Notes
+site_description: Personal notes and learning resources on Artificial Intelligence, Machine Learning, and Deep Learning.
+site_url: https://elshawaf1.github.io/Blog/
+repo_url: https://github.com/elshawaf1/Blog
+repo_name: elshawaf1/Blog
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Notes:
+    - Introduction to AI: notes/introduction-to-ai.md
+    - Machine Learning Basics: notes/machine-learning-basics.md
+    - Deep Learning Overview: notes/deep-learning-overview.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - toc:
+      permalink: true
+
+plugins:
+  - search
