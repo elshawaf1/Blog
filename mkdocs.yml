@@ -30,8 +30,8 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Machine learning notes:
-  - computer vision:
+  - Machine learning notes: machine-learning-notes.md
+  - computer vision: computer-vision.md
 
 markdown_extensions:
   - admonition
