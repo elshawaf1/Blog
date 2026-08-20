@@ -34,6 +34,7 @@ nav:
     - Introduction to AI: notes/introduction-to-ai.md
     - Machine Learning Basics: notes/machine-learning-basics.md
     - Deep Learning Overview: notes/deep-learning-overview.md
+    - Essential Papers: notes/essential-papers.md
 
 markdown_extensions:
   - admonition

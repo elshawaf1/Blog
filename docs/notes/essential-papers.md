@@ -1,3 +1,4 @@
+# The Top 26 Essential Papers (+5 Bonus Resources)
 This list bridges the Transformer foundations 
   with the reasoning, MoE, and agentic shift
 
