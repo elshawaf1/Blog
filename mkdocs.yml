@@ -45,3 +45,4 @@ markdown_extensions:
 
 plugins:
   - search
+  - graph-view
