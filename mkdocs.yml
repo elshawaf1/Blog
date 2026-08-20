@@ -30,11 +30,8 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Notes:
-    - Introduction to AI: notes/introduction-to-ai.md
-    - Machine Learning Basics: notes/machine-learning-basics.md
-    - Deep Learning Overview: notes/deep-learning-overview.md
-    - Essential Papers: notes/essential-papers.md
+  - Machine learning notes:
+  - computer vision:
 
 markdown_extensions:
   - admonition
