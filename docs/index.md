@@ -11,11 +11,7 @@ This site serves as a living document of concepts, tutorials, and references I'v
 
 ## Getting Started
 
-Explore the sections using the navigation above, or start with one of these:
-
-- [Introduction to AI](notes/introduction-to-ai.md) — What is AI and why does it matter?
-- [Machine Learning Basics](notes/machine-learning-basics.md) — Core ML concepts and algorithms.
-- [Deep Learning Overview](notes/deep-learning-overview.md) — Neural networks and beyond.
+Explore the sections using the navigation above.
 
 ---
 
